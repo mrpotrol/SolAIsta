@@ -1,2 +1,8 @@
 
 .DS_Store
+logs/alexnet_feat_ext/Metrics_Losses_Val/events.out.tfevents.1694176700.192.168.1.62.3899.2
+logs/alexnet_feat_ext/events.out.tfevents.1694176012.192.168.1.62.3899.0
+logs/alexnet_feat_ext/Metrics_Accuracy_Val/events.out.tfevents.1694176700.192.168.1.62.3899.4
+logs/alexnet_feat_ext/Metrics_Losses_Train/events.out.tfevents.1694176700.192.168.1.62.3899.1
+logs/alexnet_feat_ext/Metrics_Accuracy_Train/events.out.tfevents.1694176700.192.168.1.62.3899.3
+weights/best_model.pth
